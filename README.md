@@ -1,3 +1,3 @@
 # AlphaVantage
-Read Financial Data from the AlphaVantage API
+Read Financial Data from the AlphaVantage API.
 
